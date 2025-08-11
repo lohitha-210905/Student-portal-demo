@@ -1,0 +1,15 @@
+A Student Portal Demo is a sample version of an online platform designed for students to manage their academic activities. It’s usually created to show how the actual student portal works—either for testing, presentation, training, or development purposes.
+
+A student portal is a secure website where students can:
+
+View their grades and transcripts
+
+Register for courses
+
+Access schedules and calendars
+
+Communicate with teachers and classmates
+
+Submit assignments or view materials
+
+Pay fees and check account balances
